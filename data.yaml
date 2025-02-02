@@ -1,0 +1,5 @@
+train: /Users/shreyasmallesh/Wine-Beer-Detection/data/enhanced/train/images
+val: /Users/shreyasmallesh/Wine-Beer-Detection/data/enhanced/val/images
+
+nc: 2
+names: ['beer', 'wine']

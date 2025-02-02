@@ -1,0 +1,13 @@
+beer/
+wine/
+yolov5/
+*.pt
+models/
+data/
+*.pth
+*.bin
+
+__pycache__/
+*.pyc
+
+venv/
